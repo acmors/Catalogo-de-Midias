@@ -25,5 +25,6 @@ public class Media {
     @Enumerated(EnumType.STRING)
     private Genre genre;
     private double rating;
+    private String imagePath;
 
 }
